@@ -31,8 +31,8 @@ Mullvad Browser를 설치합니다.
 
 C:\Programs\Mullvad Browser에 설치합니다.
 
-<img width="1788" height="537" alt="Image" src="https://github.com/user-attachments/assets/263f6160-38f3-420c-8358-96e1692ddd95" />
-<img width="1407" height="486" alt="Image" src="https://github.com/user-attachments/assets/8835f4d7-8652-4b9a-9202-e0dd03e77ab6" />
+<img width="1754" height="511" alt="Image" src="https://github.com/user-attachments/assets/2ac15b39-9533-4e60-8aba-a461250e1439" />
+<img width="1505" height="465" alt="Image" src="https://github.com/user-attachments/assets/2d07f85c-bfef-4595-ae24-602e5ba301a5" />
 
 위와 같이 설정합니다. 레터박싱 사이즈는 1400 × 700으로 유지합니다.
 
