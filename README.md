@@ -34,7 +34,7 @@ C:\Programs\Mullvad Browser에 설치합니다.
 <img width="1754" height="511" alt="Image" src="https://github.com/user-attachments/assets/2ac15b39-9533-4e60-8aba-a461250e1439" />
 <img width="1505" height="465" alt="Image" src="https://github.com/user-attachments/assets/2d07f85c-bfef-4595-ae24-602e5ba301a5" />
 
-위와 같이 설정합니다. 레터박싱 사이즈는 1400 × 700으로 유지합니다.
+위와 같이 설정합니다. 레터박싱 사이즈는 1400 × 900으로 유지합니다.
 
 <img width="3840" height="2040" alt="Image" src="https://github.com/user-attachments/assets/1e8e3467-785b-4a5f-ab15-1cba0f9decb7" />
 
